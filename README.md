@@ -1,12 +1,12 @@
-# Drone runner
-Drone runner docker compose repository
+# Drone docker runner
+Drone docker runner docker compose repository
 
-[![License](https://img.shields.io/github/license/kgbph/drone-runner.svg?style=popout)](https://github.com/kgbph/drone-runner/blob/master/LICENSE)
+[![License](https://img.shields.io/github/license/kgbph/drone-runner-docker.svg?style=popout)](https://github.com/kgbph/drone-runner-docker/blob/master/LICENSE)
 
 ## Setup
 ```
-git clone https://github.com/kgbph/drone-runner.git
-cd drone-runner
+git clone https://github.com/kgbph/drone-runner-docker.git
+cd drone-runner-docker
 docker-compose up -d
 ```
 
